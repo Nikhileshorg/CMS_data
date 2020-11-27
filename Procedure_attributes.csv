@@ -1,0 +1,500 @@
+﻿Procedure ID,Procedure ,Time in Hours,Severity,Gender,anesthesia,diabetes
+10,AAA Repair,3,Low,Male,Yes,Yes
+11,Pancreatic Resection_Cancer,1,Medium,Female,Yes,No
+12,Laminectomy,1,Medium,Female,Yes,No
+15,AAA Repair_Ruptured_Endovascular,2,Medium,Male,Yes,Yes
+15,General surgery,3,Low,Male,Yes,Yes
+16,Stereotactic surgery,1,Medium,Male,Yes,Yes
+17,Image-guided surgery,3,Low,Male,No,No
+17,Vaginoplasty,4,High,Female,Yes,Yes
+21,Radiosurgery,1,Low,Male,No,No
+21,Endoscopic surgery,2,High,Male,Yes,Yes
+22,AAA Repair_Ruptured_Open,2,High,Female,Yes,No
+25,Ablation,3,High,Female,Yes,Yes
+27,Amputation,2,High,Male,Yes,Yes
+28,Lithotomy,1,Medium,Female,Yes,Yes
+28,Ablation,3,Low,Male,No,No
+29,Pancreatic Resection_Cancer,4,High,Female,Yes,No
+31,AAA Repair,3,Medium,Female,Yes,No
+32,Cryosurgery,1,Medium,Female,Yes,No
+33,AAA Repair_Ruptured_Open,3,Low,Male,No,No
+34,Hemilaminectomy,3,Medium,Male,Yes,No
+36,Lithotomy,4,High,Male,Yes,Yes
+37,AAA Repair_Ruptured_Open,1,Low,Female,Yes,No
+37,Cardiopulmonary resuscitation ,3,High,Female,Yes,Yes
+38,Lobotomy,3,High,Male,Yes,No
+41,Cryosurgery,1,Low,Male,No,Yes
+41,Neovaginoplasty,4,Medium,Male,Yes,No
+47,Hemilaminectomy,2,High,Male,Yes,Yes
+49,General surgery,4,High,Female,Yes,Yes
+52,Stereotactic surgery,4,Medium,Female,Yes,Yes
+53,Radiosurgery,3,Medium,Male,Yes,No
+54,AAA Repair,2,Low,Male,No,No
+56,Endoscopic surgery,1,Medium,Male,Yes,No
+59,Cardiopulmonary resuscitation ,1,Medium,Male,Yes,No
+60,Laminectomy,4,High,Female,Yes,Yes
+61,Laminectomy,2,Medium,Male,Yes,Yes
+62,Pancreatic Resection,3,High,Male,Yes,Yes
+62,General surgery,3,Low,Female,No,Yes
+62,Stereotactic surgery,4,High,Female,Yes,Yes
+63,Radiosurgery,1,Low,Female,Yes,No
+63,Procedure,3,Low,Female,Yes,Yes
+63,Ablation,3,Medium,Male,Yes,No
+63,Laminectomy,4,High,Female,Yes,Yes
+64,Endoscopic surgery,2,Medium,Female,Yes,Yes
+64,AAA Repair,3,Medium,Female,Yes,Yes
+65,Pancreatic Resection,1,Medium,Female,Yes,No
+65,AAA Repair_Un-ruptured_Endovascular,3,Low,Female,Yes,Yes
+67,AAA Repair_Ruptured_Open,4,High,Female,Yes,Yes
+68,Laparoscopic surgery,3,High,Male,Yes,No
+68,Image-guided surgery,4,High,Male,Yes,No
+69,Laminectomy,2,High,Male,Yes,Yes
+70,Xenotransplantation,1,Medium,Female,Yes,No
+72,Endoscopic surgery,2,Low,Male,No,Yes
+74,Amputation,2,High,Female,Yes,Yes
+75,Stereotactic surgery,4,Medium,Female,Yes,Yes
+76,Neovaginoplasty,3,High,Female,Yes,Yes
+77,Lithotriptor,2,High,Male,Yes,Yes
+77,AAA Repair_Un-ruptured_Open,4,High,Female,Yes,No
+78,Cardiopulmonary resuscitation ,3,Medium,Male,Yes,No
+78,Endoscopic surgery,3,Medium,Female,Yes,Yes
+81,PCI,4,High,Male,Yes,Yes
+82,PCI,3,Low,Female,No,Yes
+83,Ablation,1,Low,Male,No,Yes
+84,Cardiopulmonary resuscitation ,1,Medium,Female,Yes,No
+87,Xenotransplantation,1,Medium,Male,Yes,Yes
+87,AAA Repair_Ruptured_Open,4,High,Female,Yes,Yes
+89,Pancreatic Resection,1,Medium,Female,Yes,No
+89,Knee cartilage replacement therapy,4,High,Female,Yes,No
+89,Pancreatic Resection_Cancer,4,Medium,Male,Yes,Yes
+90,Laparoscopic surgery,1,Low,Female,Yes,No
+90,AAA Repair_Ruptured_Endovascular,2,Medium,Male,Yes,No
+90,Biopsy,3,High,Female,Yes,No
+91,AAA Repair_Ruptured_Open,1,Low,Female,No,Yes
+92,Laminectomy,2,Low,Female,Yes,Yes
+93,Radiosurgery,1,Medium,Female,Yes,Yes
+94,Vaginoplasty,2,Medium,Female,Yes,Yes
+95,CABG,2,Low,Male,Yes,No
+96,AAA Repair_Ruptured_Endovascular,1,Medium,Female,Yes,No
+96,Carotid Endarterectomy,3,Medium,Male,Yes,Yes
+96,AAA Repair_Ruptured_Endovascular,4,High,Male,Yes,Yes
+98,Facial rejuvenation,1,Low,Male,Yes,Yes
+99,Laparoscopic surgery,1,Medium,Male,Yes,No
+99,Esophageal Resection,4,High,Female,Yes,No
+101,AAA Repair_Un-ruptured_Endovascular,3,Medium,Female,Yes,No
+102,Cardiopulmonary resuscitation ,1,Medium,Female,Yes,Yes
+102,Vaginoplasty,2,Medium,Female,Yes,Yes
+102,Biopsy,3,High,Female,Yes,No
+103,Cryosurgery,1,Medium,Female,Yes,Yes
+103,Xenotransplantation,2,Low,Male,Yes,Yes
+103,Hand surgery,4,High,Male,Yes,No
+105,Knee cartilage replacement therapy,1,Low,Female,No,Yes
+105,AAA Repair_Un-ruptured_Open,3,Medium,Female,Yes,Yes
+106,AAA Repair_Ruptured_Endovascular,4,Medium,Male,Yes,Yes
+107,Hand surgery,4,Medium,Female,Yes,Yes
+108,Carotid Endarterectomy,2,Medium,Male,Yes,Yes
+110,Hand surgery,1,Medium,Female,Yes,No
+111,Hand surgery,4,High,Female,Yes,Yes
+112,Pancreatic Resection_Cancer,2,Low,Female,Yes,No
+113,Pancreatic Resection,2,High,Female,Yes,Yes
+115,Radiosurgery,3,Low,Male,Yes,Yes
+116,Vaginoplasty,3,High,Male,Yes,Yes
+116,Stereotactic surgery,4,High,Female,Yes,Yes
+119,Pancreatic Resection,2,Low,Male,Yes,No
+119,CABG,4,High,Female,Yes,Yes
+120,Image-guided surgery,4,High,Male,Yes,Yes
+122,Biopsy,1,Low,Female,Yes,Yes
+123,Procedure,1,Low,Female,No,Yes
+123,Vaginoplasty,3,Low,Female,No,No
+125,CABG,1,Medium,Female,Yes,Yes
+125,Laminectomy,4,High,Male,Yes,No
+127,Endoscopic surgery,1,Medium,Male,Yes,Yes
+128,Esophageal Resection,4,High,Female,Yes,No
+129,Pancreatic Resection,1,Medium,Male,Yes,Yes
+132,Stereotactic surgery,2,Low,Male,No,Yes
+134,Amputation,1,Medium,Female,Yes,No
+135,Laparoscopic surgery,2,Low,Male,Yes,Yes
+136,Radiosurgery,2,Medium,Female,Yes,No
+137,Lobotomy,4,High,Male,Yes,Yes
+138,AAA Repair_Ruptured_Open,4,Medium,Male,Yes,No
+141,AAA Repair_Ruptured_Open,1,Low,Male,No,No
+142,Esophageal Resection,2,Medium,Female,Yes,No
+143,Radiosurgery,2,Medium,Male,Yes,Yes
+143,Image-guided surgery,3,High,Female,Yes,No
+144,AAA Repair_Un-ruptured_Endovascular,3,High,Female,Yes,Yes
+144,PCI,4,High,Female,Yes,No
+145,PCI,1,Low,Female,Yes,Yes
+145,Image-guided surgery,3,Low,Female,Yes,Yes
+145,Hemilaminectomy,4,Medium,Male,Yes,No
+147,Procedure,3,Medium,Male,Yes,No
+149,PCI,2,Medium,Male,Yes,Yes
+150,Radiosurgery,1,Low,Female,No,Yes
+151,Biopsy,4,Medium,Male,Yes,Yes
+154,AAA Repair_Un-ruptured_Endovascular,1,Medium,Male,Yes,No
+155,Hand surgery,1,Medium,Male,Yes,Yes
+155,Cryosurgery,3,Low,Male,Yes,Yes
+157,Radiosurgery,1,Low,Female,Yes,No
+161,Pancreatic Resection,4,Medium,Male,Yes,No
+162,AAA Repair_Un-ruptured_Endovascular,3,High,Male,Yes,Yes
+163,General surgery,4,High,Male,Yes,Yes
+164,General surgery,2,Low,Female,No,Yes
+164,Procedure,3,Low,Male,No,No
+169,Knee cartilage replacement therapy,4,Medium,Female,Yes,Yes
+170,General surgery,1,Medium,Male,Yes,No
+170,Hemilaminectomy,1,Low,Male,Yes,Yes
+170,Ablation,3,High,Female,Yes,No
+172,Hand surgery,3,High,Male,Yes,No
+174,Laminectomy,1,Medium,Male,Yes,No
+174,Pancreatic Resection,1,Medium,Female,Yes,Yes
+174,AAA Repair_Ruptured_Open,3,Medium,Female,Yes,Yes
+174,Lobotomy,4,Medium,Male,Yes,No
+175,Lithotriptor,4,Medium,Female,Yes,No
+178,Facial rejuvenation,4,Medium,Male,Yes,No
+181,PCI,1,Medium,Male,Yes,No
+181,Amputation,4,Medium,Male,Yes,No
+182,Knee cartilage replacement therapy,3,Low,Female,No,No
+182,Knee cartilage replacement therapy,3,Medium,Female,Yes,Yes
+185,Cardiopulmonary resuscitation ,4,Medium,Female,Yes,No
+187,Hemilaminectomy,1,Medium,Male,Yes,Yes
+188,General surgery,1,Medium,Male,Yes,Yes
+189,Ablation,4,High,Female,Yes,Yes
+191,AAA Repair_Ruptured_Open,1,Low,Female,No,Yes
+191,AAA Repair_Un-ruptured_Open,3,Low,Female,Yes,Yes
+194,AAA Repair_Un-ruptured_Open,4,High,Female,Yes,No
+195,Cardiopulmonary resuscitation ,3,High,Male,Yes,Yes
+195,Ablation,4,High,Female,Yes,Yes
+196,Vaginoplasty,3,Medium,Male,Yes,Yes
+197,Pancreatic Resection_Cancer,2,Medium,Male,Yes,No
+197,Stereotactic surgery,4,High,Male,Yes,No
+198,Amputation,4,High,Male,Yes,Yes
+200,Pancreatic Resection,2,Medium,Female,Yes,No
+201,Biopsy,1,Medium,Male,Yes,Yes
+201,Esophageal Resection,2,Medium,Male,Yes,No
+202,Procedure,3,Low,Male,Yes,No
+203,Carotid Endarterectomy,2,Medium,Male,Yes,Yes
+205,CABG,4,High,Male,Yes,No
+205,Knee cartilage replacement therapy,4,Medium,Male,Yes,No
+205,Pancreatic Resection,4,High,Female,Yes,Yes
+206,Knee cartilage replacement therapy,2,Medium,Female,Yes,Yes
+207,AAA Repair_Un-ruptured_Open,1,Low,Male,No,Yes
+210,Procedure,4,High,Male,Yes,Yes
+211,Lobotomy,2,High,Male,Yes,Yes
+212,Lithotomy,2,Low,Female,No,No
+212,Endoscopic surgery,3,High,Male,Yes,No
+216,AAA Repair_Un-ruptured_Open,1,Medium,Male,Yes,Yes
+217,General surgery,1,Low,Female,No,Yes
+217,AAA Repair,1,Low,Female,Yes,Yes
+221,Ablation,1,Low,Female,No,Yes
+222,AAA Repair_Ruptured_Endovascular,2,High,Female,Yes,No
+223,Esophageal Resection,3,Low,Female,No,No
+223,Xenotransplantation,3,Medium,Male,Yes,No
+228,Knee cartilage replacement therapy,1,Low,Male,No,Yes
+229,Lithotriptor,2,Low,Male,Yes,Yes
+234,Pancreatic Resection_Cancer,3,Low,Male,No,Yes
+234,Facial rejuvenation,3,High,Female,Yes,Yes
+236,Facial rejuvenation,3,Low,Male,No,Yes
+241,Ablation,2,High,Male,Yes,No
+241,Cryosurgery,2,Low,Female,Yes,Yes
+241,Radiosurgery,4,High,Female,Yes,No
+242,Radiosurgery,2,Medium,Male,Yes,No
+242,Amputation,4,Medium,Female,Yes,No
+243,Lithotriptor,1,Low,Female,No,Yes
+243,Cryosurgery,1,Medium,Female,Yes,Yes
+243,Xenotransplantation,3,Low,Male,Yes,No
+244,Facial rejuvenation,1,Low,Female,No,No
+245,Lithotriptor,1,Low,Female,Yes,Yes
+245,Pancreatic Resection_Cancer,4,High,Male,Yes,No
+248,Radiosurgery,3,High,Male,Yes,No
+249,Pancreatic Resection,4,High,Female,Yes,Yes
+250,Radiosurgery,2,High,Male,Yes,Yes
+251,Radiosurgery,4,Medium,Male,Yes,No
+252,AAA Repair_Ruptured_Endovascular,2,Medium,Female,Yes,Yes
+252,General surgery,3,High,Female,Yes,Yes
+253,Endoscopic surgery,2,High,Female,Yes,No
+255,Lithotriptor,4,Medium,Male,Yes,Yes
+256,Hemilaminectomy,1,Low,Male,No,Yes
+256,Pancreatic Resection_Cancer,3,High,Male,Yes,Yes
+256,Lithotriptor,3,Low,Male,Yes,No
+258,Ablation,1,Low,Male,No,Yes
+260,AAA Repair_Ruptured_Open,4,High,Male,Yes,No
+261,Amputation,1,Low,Male,Yes,No
+264,AAA Repair_Un-ruptured_Open,2,High,Male,Yes,Yes
+266,Lithotriptor,4,High,Male,Yes,Yes
+266,Carotid Endarterectomy,4,Medium,Female,Yes,Yes
+268,Pancreatic Resection,1,Low,Female,Yes,No
+268,Lithotriptor,1,Medium,Male,Yes,Yes
+268,Image-guided surgery,4,High,Female,Yes,Yes
+269,Laparoscopic surgery,1,Medium,Male,Yes,No
+272,Cardiopulmonary resuscitation ,1,Low,Male,Yes,Yes
+273,AAA Repair,2,Medium,Male,Yes,No
+273,Biopsy,2,Medium,Male,Yes,No
+275,Radiosurgery,1,Low,Female,No,Yes
+275,Xenotransplantation,3,Low,Male,Yes,No
+275,Hand surgery,4,Medium,Male,Yes,Yes
+275,AAA Repair,4,High,Male,Yes,Yes
+277,Amputation,1,Low,Female,No,Yes
+279,Pancreatic Resection,1,Medium,Female,Yes,No
+279,Biopsy,4,High,Male,Yes,No
+280,AAA Repair_Un-ruptured_Open,2,Medium,Male,Yes,Yes
+281,CABG,2,Medium,Male,Yes,Yes
+281,Esophageal Resection,3,Low,Male,Yes,No
+283,Ablation,1,Medium,Female,Yes,No
+283,Xenotransplantation,3,High,Male,Yes,Yes
+283,Amputation,4,High,Female,Yes,No
+286,Cardiopulmonary resuscitation ,4,High,Male,Yes,Yes
+288,CABG,4,Medium,Female,Yes,Yes
+289,Laminectomy,4,High,Female,Yes,No
+294,Vaginoplasty,1,Medium,Male,Yes,No
+295,CABG,1,Low,Male,No,Yes
+296,Hand surgery,1,Low,Male,Yes,No
+296,Lithotomy,4,Medium,Female,Yes,No
+299,Vaginoplasty,3,Medium,Female,Yes,No
+302,AAA Repair_Un-ruptured_Open,1,Low,Female,No,Yes
+304,AAA Repair_Un-ruptured_Open,3,Medium,Male,Yes,No
+305,Vaginoplasty,2,High,Female,Yes,No
+307,Xenotransplantation,4,High,Female,Yes,No
+308,Pancreatic Resection,1,Low,Male,No,Yes
+312,Knee cartilage replacement therapy,4,High,Male,Yes,No
+313,AAA Repair_Un-ruptured_Endovascular,1,Low,Female,No,Yes
+314,AAA Repair_Ruptured_Open,4,High,Male,Yes,No
+316,Pancreatic Resection_Cancer,3,Medium,Male,Yes,No
+316,Neovaginoplasty,4,Medium,Male,Yes,Yes
+318,Neovaginoplasty,3,Medium,Female,Yes,Yes
+318,Hemilaminectomy,4,High,Female,Yes,No
+319,Pancreatic Resection,3,Medium,Male,Yes,No
+320,Laminectomy,1,Low,Male,No,Yes
+320,Hemilaminectomy,3,Medium,Female,Yes,Yes
+321,AAA Repair_Ruptured_Open,3,Low,Female,Yes,Yes
+321,Lithotomy,3,Medium,Male,Yes,Yes
+321,Pancreatic Resection_Cancer,4,Medium,Male,Yes,No
+322,Lobotomy,1,Medium,Male,Yes,No
+322,AAA Repair_Un-ruptured_Endovascular,1,Low,Male,Yes,Yes
+323,General surgery,1,Medium,Male,Yes,Yes
+324,Lithotomy,1,Low,Male,Yes,Yes
+324,Hand surgery,2,High,Female,Yes,Yes
+325,Cardiopulmonary resuscitation ,3,Medium,Female,Yes,No
+326,PCI,1,Medium,Female,Yes,No
+326,Carotid Endarterectomy,3,Low,Male,Yes,Yes
+326,Pancreatic Resection,3,Medium,Male,Yes,No
+327,Lithotriptor,3,High,Female,Yes,Yes
+329,Pancreatic Resection_Cancer,3,High,Male,Yes,Yes
+330,Radiosurgery,4,High,Female,Yes,No
+332,Pancreatic Resection,4,Medium,Male,Yes,No
+334,Biopsy,4,Medium,Male,Yes,Yes
+334,Cardiopulmonary resuscitation ,4,High,Female,Yes,No
+336,Pancreatic Resection,3,Medium,Female,Yes,No
+338,AAA Repair_Ruptured_Endovascular,1,Low,Female,No,Yes
+338,Stereotactic surgery,3,Medium,Male,Yes,No
+340,Radiosurgery,4,High,Male,Yes,No
+341,Esophageal Resection,3,High,Female,Yes,Yes
+343,Esophageal Resection,1,Low,Female,Yes,Yes
+344,Lithotriptor,2,High,Male,Yes,No
+345,Biopsy,3,Low,Female,No,Yes
+345,AAA Repair_Un-ruptured_Open,4,Medium,Female,Yes,No
+349,Image-guided surgery,3,High,Male,Yes,Yes
+350,AAA Repair_Ruptured_Open,3,High,Male,Yes,Yes
+350,Ablation,4,High,Male,Yes,Yes
+351,Pancreatic Resection_Cancer,1,Medium,Male,Yes,Yes
+352,Hemilaminectomy,3,Medium,Female,Yes,Yes
+353,General surgery,3,High,Female,Yes,Yes
+353,Stereotactic surgery,4,Medium,Male,Yes,Yes
+353,Lobotomy,4,Medium,Male,Yes,Yes
+354,Lithotomy,3,Low,Male,Yes,No
+356,Laparoscopic surgery,1,Low,Male,No,Yes
+356,Laminectomy,2,High,Male,Yes,Yes
+357,AAA Repair_Ruptured_Endovascular,2,High,Male,Yes,Yes
+358,Radiosurgery,3,Medium,Male,Yes,No
+358,Stereotactic surgery,3,High,Female,Yes,No
+359,Facial rejuvenation,2,Medium,Female,Yes,No
+359,Lithotomy,4,Medium,Male,Yes,Yes
+361,Radiosurgery,1,Low,Female,No,No
+362,AAA Repair_Un-ruptured_Open,3,Low,Female,No,No
+364,Pancreatic Resection,3,Low,Female,No,No
+366,PCI,2,High,Female,Yes,No
+367,Radiosurgery,1,Medium,Male,Yes,No
+368,Endoscopic surgery,1,Medium,Male,Yes,Yes
+369,AAA Repair_Ruptured_Open,1,Low,Male,No,Yes
+371,Laminectomy,3,High,Male,Yes,No
+373,AAA Repair_Ruptured_Open,2,Medium,Male,Yes,Yes
+373,Laparoscopic surgery,3,High,Female,Yes,No
+374,Facial rejuvenation,3,High,Male,Yes,No
+376,Lithotriptor,2,Low,Female,Yes,Yes
+377,Image-guided surgery,4,Medium,Female,Yes,No
+379,Biopsy,3,Medium,Female,Yes,No
+381,Laminectomy,2,High,Female,Yes,Yes
+382,Pancreatic Resection,1,Low,Male,Yes,Yes
+382,Knee cartilage replacement therapy,4,Medium,Female,Yes,No
+384,Lithotriptor,1,Medium,Female,Yes,Yes
+384,Image-guided surgery,2,High,Female,Yes,Yes
+385,Endoscopic surgery,3,Low,Male,No,No
+387,Endoscopic surgery,1,Low,Female,Yes,Yes
+387,Laminectomy,4,Medium,Male,Yes,No
+388,Pancreatic Resection,3,Low,Female,No,Yes
+389,Lithotomy,4,Medium,Female,Yes,No
+390,Radiosurgery,2,Low,Male,Yes,No
+390,PCI,4,Medium,Female,Yes,No
+393,Pancreatic Resection,4,High,Female,Yes,No
+397,Radiosurgery,1,Low,Male,No,Yes
+399,CABG,3,Medium,Male,Yes,Yes
+399,Lobotomy,3,Low,Male,Yes,No
+404,Pancreatic Resection,2,Medium,Male,Yes,Yes
+405,Pancreatic Resection,1,Medium,Male,Yes,No
+406,Xenotransplantation,1,Medium,Female,Yes,Yes
+407,Ablation,2,Low,Female,No,No
+407,Xenotransplantation,3,Medium,Female,Yes,Yes
+410,Endoscopic surgery,2,High,Male,Yes,Yes
+411,Ablation,3,High,Male,Yes,Yes
+412,PCI,2,Medium,Female,Yes,Yes
+413,General surgery,2,High,Female,Yes,Yes
+415,AAA Repair_Ruptured_Open,1,Low,Male,No,Yes
+415,Pancreatic Resection,3,Medium,Male,Yes,No
+416,Radiosurgery,1,Medium,Male,Yes,No
+421,Amputation,3,Low,Male,Yes,No
+424,Endoscopic surgery,2,Low,Male,Yes,No
+428,Vaginoplasty,4,High,Male,Yes,No
+429,AAA Repair_Un-ruptured_Endovascular,1,Medium,Male,Yes,No
+429,Radiosurgery,4,Medium,Male,Yes,Yes
+431,Laminectomy,1,Medium,Female,Yes,No
+434,AAA Repair_Un-ruptured_Endovascular,2,Medium,Female,Yes,Yes
+434,Carotid Endarterectomy,2,Medium,Male,Yes,No
+434,Image-guided surgery,3,High,Female,Yes,No
+436,Hemilaminectomy,1,Low,Female,Yes,No
+437,Pancreatic Resection,2,Low,Male,No,Yes
+441,Knee cartilage replacement therapy,1,Low,Male,No,No
+443,Radiosurgery,4,Medium,Female,Yes,No
+444,Neovaginoplasty,3,Low,Male,Yes,No
+444,AAA Repair_Ruptured_Open,3,High,Male,Yes,No
+444,Xenotransplantation,4,High,Male,Yes,No
+445,Radiosurgery,2,High,Female,Yes,No
+447,Facial rejuvenation,2,Low,Male,No,Yes
+448,Pancreatic Resection_Cancer,1,Low,Female,No,Yes
+450,Lithotomy,1,Low,Female,Yes,Yes
+451,Esophageal Resection,4,Medium,Male,Yes,No
+452,AAA Repair,3,Medium,Male,Yes,Yes
+454,Laparoscopic surgery,3,Low,Female,Yes,Yes
+454,AAA Repair_Un-ruptured_Endovascular,3,High,Male,Yes,Yes
+458,Pancreatic Resection_Cancer,2,Low,Female,No,No
+458,Lithotomy,2,Low,Female,No,No
+460,Pancreatic Resection,3,Low,Female,Yes,Yes
+461,Esophageal Resection,4,High,Female,Yes,No
+466,Endoscopic surgery,2,Low,Male,No,No
+467,Carotid Endarterectomy,3,Medium,Female,Yes,No
+467,Carotid Endarterectomy,3,Medium,Male,Yes,Yes
+470,Hand surgery,1,Medium,Male,Yes,No
+472,Amputation,2,Medium,Male,Yes,Yes
+473,Xenotransplantation,1,Medium,Female,Yes,Yes
+476,Procedure,2,High,Male,Yes,No
+476,Vaginoplasty,2,Low,Male,Yes,Yes
+476,AAA Repair_Ruptured_Endovascular,3,Medium,Male,Yes,No
+476,Pancreatic Resection_Cancer,3,Low,Female,Yes,Yes
+477,Pancreatic Resection,2,Low,Male,Yes,No
+477,Esophageal Resection,4,High,Male,Yes,Yes
+478,Laparoscopic surgery,2,Low,Female,Yes,Yes
+480,Lithotomy,3,Low,Male,Yes,No
+480,Neovaginoplasty,4,Medium,Male,Yes,No
+481,Amputation,2,Medium,Female,Yes,No
+483,Lithotriptor,1,Medium,Female,Yes,No
+483,Hemilaminectomy,4,High,Male,Yes,No
+483,Vaginoplasty,4,Medium,Male,Yes,Yes
+484,AAA Repair_Ruptured_Open,1,Medium,Male,Yes,Yes
+485,AAA Repair,2,Medium,Male,Yes,Yes
+486,General surgery,1,Low,Male,Yes,No
+486,Lithotomy,2,Low,Female,Yes,Yes
+486,Procedure,3,Medium,Female,Yes,No
+487,Neovaginoplasty,4,Medium,Male,Yes,Yes
+488,AAA Repair_Ruptured_Open,2,Medium,Female,Yes,Yes
+488,Laparoscopic surgery,3,High,Male,Yes,Yes
+489,AAA Repair_Un-ruptured_Endovascular,2,High,Female,Yes,No
+490,Pancreatic Resection_Cancer,3,High,Female,Yes,Yes
+491,Amputation,4,Medium,Female,Yes,No
+493,Amputation,2,Medium,Male,Yes,Yes
+493,Radiosurgery,2,High,Male,Yes,Yes
+493,AAA Repair_Ruptured_Open,3,Low,Male,Yes,No
+494,Radiosurgery,1,Low,Male,Yes,No
+494,Laminectomy,1,Low,Male,Yes,Yes
+498,Endoscopic surgery,2,Medium,Female,Yes,Yes
+498,Biopsy,2,Low,Male,Yes,Yes
+498,Lithotriptor,3,High,Male,Yes,Yes
+498,AAA Repair,4,High,Male,Yes,Yes
+499,Pancreatic Resection,1,Low,Female,Yes,No
+499,Laminectomy,4,Medium,Male,Yes,No
+502,Biopsy,4,High,Female,Yes,Yes
+504,Esophageal Resection,2,Medium,Female,Yes,Yes
+504,Knee cartilage replacement therapy,4,Medium,Male,Yes,No
+505,Laminectomy,2,High,Male,Yes,Yes
+506,Esophageal Resection,1,Low,Male,Yes,Yes
+510,Facial rejuvenation,1,Low,Male,Yes,Yes
+510,PCI,3,Medium,Male,Yes,Yes
+512,General surgery,2,Medium,Female,Yes,No
+512,Laminectomy,2,Low,Female,Yes,Yes
+512,Stereotactic surgery,3,Low,Male,Yes,No
+513,Lithotomy,2,High,Female,Yes,No
+513,Laminectomy,3,Medium,Male,Yes,No
+514,Stereotactic surgery,3,High,Female,Yes,No
+514,Vaginoplasty,3,Medium,Male,Yes,Yes
+517,Procedure,4,Medium,Female,Yes,No
+522,AAA Repair_Ruptured_Open,2,Medium,Male,Yes,No
+526,Image-guided surgery,1,Low,Female,Yes,No
+526,Lithotriptor,4,Medium,Female,Yes,No
+529,Cryosurgery,4,Medium,Male,Yes,No
+530,Stereotactic surgery,1,Low,Female,Yes,No
+530,AAA Repair_Ruptured_Endovascular,3,Medium,Female,Yes,Yes
+530,AAA Repair,4,Medium,Female,Yes,No
+533,Pancreatic Resection,4,High,Female,Yes,Yes
+534,Lithotriptor,2,Low,Female,Yes,Yes
+535,General surgery,4,Medium,Male,Yes,No
+536,AAA Repair_Ruptured_Endovascular,3,Medium,Female,Yes,No
+537,Amputation,3,Low,Female,Yes,Yes
+537,Lithotriptor,4,High,Female,Yes,No
+539,AAA Repair_Ruptured_Open,3,High,Male,Yes,Yes
+539,Image-guided surgery,4,Medium,Female,Yes,Yes
+540,Ablation,1,Low,Male,Yes,No
+540,Laparoscopic surgery,4,Medium,Female,Yes,Yes
+541,Pancreatic Resection_Cancer,1,Low,Female,Yes,Yes
+541,Facial rejuvenation,3,High,Male,Yes,Yes
+541,Pancreatic Resection,4,Medium,Male,Yes,Yes
+543,Lobotomy,3,High,Female,Yes,No
+543,AAA Repair_Ruptured_Endovascular,3,High,Female,Yes,Yes
+544,Cardiopulmonary resuscitation ,2,High,Male,Yes,No
+544,Biopsy,3,High,Male,Yes,Yes
+545,Stereotactic surgery,4,High,Male,Yes,No
+546,Knee cartilage replacement therapy,4,High,Male,Yes,Yes
+549,Facial rejuvenation,1,Medium,Female,Yes,No
+549,Vaginoplasty,2,Low,Male,Yes,No
+549,Esophageal Resection,3,Low,Male,Yes,No
+549,Lithotriptor,4,High,Female,Yes,No
+555,Xenotransplantation,4,Medium,Female,Yes,No
+559,PCI,1,Low,Female,Yes,No
+559,Ablation,1,Low,Male,Yes,No
+559,Pancreatic Resection,2,Medium,Female,Yes,No
+559,Amputation,3,Medium,Female,Yes,Yes
+561,Esophageal Resection,1,Low,Male,Yes,Yes
+562,AAA Repair_Ruptured_Open,4,Medium,Male,Yes,No
+563,AAA Repair_Ruptured_Endovascular,2,High,Female,Yes,Yes
+563,Facial rejuvenation,4,Medium,Female,Yes,No
+564,Facial rejuvenation,1,Medium,Male,Yes,No
+566,Facial rejuvenation,1,Low,Female,Yes,Yes
+566,Lithotomy,1,Low,Female,Yes,Yes
+569,Laparoscopic surgery,1,Low,Female,Yes,No
+570,Neovaginoplasty,3,Low,Male,Yes,No
+572,Lithotomy,1,Low,Male,Yes,Yes
+572,Xenotransplantation,2,Low,Female,Yes,No
+572,Xenotransplantation,2,High,Male,Yes,Yes
+578,Laminectomy,1,Low,Female,Yes,No
+579,General surgery,3,High,Female,Yes,Yes
+580,Radiosurgery,1,Medium,Female,Yes,Yes
+580,Neovaginoplasty,2,High,Male,Yes,No
+581,General surgery,3,High,Female,Yes,No
+583,PCI,4,Medium,Female,Yes,Yes
+587,CABG,2,High,Female,Yes,Yes
+589,Xenotransplantation,3,Medium,Male,Yes,Yes
+590,Hemilaminectomy,3,Medium,Female,Yes,No
+590,Hemilaminectomy,4,High,Female,Yes,Yes
+593,Laminectomy,1,Low,Male,Yes,Yes
+593,Pancreatic Resection,2,Medium,Male,Yes,No
+596,AAA Repair_Un-ruptured_Endovascular,3,Medium,Male,Yes,Yes
+597,Laminectomy,2,High,Female,Yes,Yes
+598,Laparoscopic surgery,1,Low,Female,Yes,No
+598,Neovaginoplasty,1,Medium,Female,Yes,Yes
+599,General surgery,2,Medium,Female,Yes,No
+600,PCI,1,Medium,Female,Yes,No

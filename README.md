@@ -1,4 +1,4 @@
-**For this exercise, I have created dummy data for procedure attirbute, procedure success and procedure outcome. While creating, I have made sure that there are missing values in the data, which is similar in the real world data. As, I am not very experienced in the Procedures and its nomenclature, I have assumed only the following features into my dataset. **
+**For this exercise, I have created dummy data for procedure attirbutes, procedure success and procedure outcome. While creating, I have made sure that there are missing values in the data, which is similar to the real world data. As, I am not very experienced in the Procedures and its nomenclature, I have assumed only the following features into my dataset. **
 
 
 **Data Dictionary**
@@ -30,6 +30,8 @@ Procedure_outcomes:
 Link to my Github respository : https://github.com/Nikhileshorg/CMS_data
 
 Based on the problem statment given, this is a classification type of problem. I have choosen xgb as the algorithm and Hyperopt as the optimization technique. I have tried Lightgbm as well but due to less data, it was not giving good accuracy scores. Based on the dataset. This is a classification type of problem.
+
+The code can run by using the RUN_ALL command. 
 
 
 

@@ -16,7 +16,7 @@ Procedure_attributes:
 Procedure_success:
 
 1. Procedure_ID : Unique for every record. (Primary Key)
-2. Outcome : FOr every procedure, what is the outcome ?
+2. Outcome : For every procedure, what is the outcome ?
 
 
 Procedure_outcomes:

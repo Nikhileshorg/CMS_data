@@ -1,0 +1,500 @@
+﻿Procedure ID,Procedure ,Time in Hours,Severity,Gender,anesthesia,diabetes,Outcome,severity of post procedure complications
+10,AAA Repair,3,Low,Male,Yes,Yes,Success,High
+11,Pancreatic Resection (Cancer),1,Medium,Female,Yes,No,Success,Low
+12,Laminectomy,1,Medium,Female,Yes,No,Success,Low
+15,"AAA Repair (Ruptured, Endovascular)",2,Medium,Male,Yes,Yes,Success,Medium
+15,General surgery,3,Low,Male,Yes,Yes,Success,Low
+16,Stereotactic surgery,1,Medium,Male,Yes,Yes,Success,High
+17,Image-guided surgery,3,Low,Male,No,No,Success,Medium
+17,Vaginoplasty,4,High,Female,Yes,Yes,Success,Medium
+21,Radiosurgery,1,Low,Male,No,No,Success,Medium
+21,Endoscopic surgery,2,High,Male,Yes,Yes,Success,Medium
+22,"AAA Repair (Ruptured, Open)",2,High,Female,Yes,No,Success,Medium
+25,Ablation,3,High,Female,Yes,Yes,Success,Low
+27,Amputation,2,High,Male,Yes,Yes,Success,High
+28,Lithotomy,1,Medium,Female,Yes,Yes,Success,Medium
+28,Ablation,3,Low,Male,No,No,Success,Low
+29,Pancreatic Resection (Cancer),4,High,Female,Yes,No,Success,Low
+31,AAA Repair,3,Medium,Female,Yes,No,Success,Low
+32,Cryosurgery,1,Medium,Female,Yes,No,Success,Medium
+33,"AAA Repair (Ruptured, Open)",3,Low,Male,No,No,Success,Low
+34,Hemilaminectomy,3,Medium,Male,Yes,No,Success,Medium
+36,Lithotomy,4,High,Male,Yes,Yes,Success,High
+37,"AAA Repair (Ruptured, Open)",1,Low,Female,Yes,No,Success,High
+37,Cardiopulmonary resuscitation (CPR),3,High,Female,Yes,Yes,Success,Low
+38,Lobotomy,3,High,Male,Yes,No,Success,Low
+41,Cryosurgery,1,Low,Male,No,Yes,Success,Medium
+41,Neovaginoplasty,4,Medium,Male,Yes,No,Success,Low
+47,Hemilaminectomy,2,High,Male,Yes,Yes,Success,Medium
+49,General surgery,4,High,Female,Yes,Yes,Success,Medium
+52,Stereotactic surgery,4,Medium,Female,Yes,Yes,Success,Medium
+53,Radiosurgery,3,Medium,Male,Yes,No,Success,Low
+54,AAA Repair,2,Low,Male,No,No,Success,High
+56,Endoscopic surgery,1,Medium,Male,Yes,No,Success,Low
+59,Cardiopulmonary resuscitation (CPR),1,Medium,Male,Yes,No,Success,Low
+60,Laminectomy,4,High,Female,Yes,Yes,Success,High
+61,Laminectomy,2,Medium,Male,Yes,Yes,Success,Medium
+62,Pancreatic Resection,3,High,Male,Yes,Yes,Success,High
+62,General surgery,3,Low,Female,No,Yes,Success,Low
+62,Stereotactic surgery,4,High,Female,Yes,Yes,Success,Medium
+63,Radiosurgery,1,Low,Female,Yes,No,Success,Low
+63,Procedure,3,Low,Female,Yes,Yes,Success,High
+63,Ablation,3,Medium,Male,Yes,No,Success,Low
+63,Laminectomy,4,High,Female,Yes,Yes,Failure,High
+64,Endoscopic surgery,2,Medium,Female,Yes,Yes,Success,Medium
+64,AAA Repair,3,Medium,Female,Yes,Yes,Success,High
+65,Pancreatic Resection,1,Medium,Female,Yes,No,Success,Medium
+65,"AAA Repair (Un-ruptured, Endovascular)",3,Low,Female,Yes,Yes,Success,High
+67,"AAA Repair (Ruptured, Open)",4,High,Female,Yes,Yes,Success,High
+68,Laparoscopic surgery,3,High,Male,Yes,No,Success,Medium
+68,Image-guided surgery,4,High,Male,Yes,No,Success,High
+69,Laminectomy,2,High,Male,Yes,Yes,Success,Low
+70,Xenotransplantation,1,Medium,Female,Yes,No,Success,Low
+72,Endoscopic surgery,2,Low,Male,No,Yes,Success,Low
+74,Amputation,2,High,Female,Yes,Yes,Success,Medium
+75,Stereotactic surgery,4,Medium,Female,Yes,Yes,Success,High
+76,Neovaginoplasty,3,High,Female,Yes,Yes,Success,Low
+77,Lithotriptor,2,High,Male,Yes,Yes,Success,High
+77,"AAA Repair (Un-ruptured, Open)",4,High,Female,Yes,No,Success,Low
+78,Cardiopulmonary resuscitation (CPR),3,Medium,Male,Yes,No,Success,Low
+78,Endoscopic surgery,3,Medium,Female,Yes,Yes,Success,Medium
+81,PCI,4,High,Male,Yes,Yes,Success,Low
+82,PCI,3,Low,Female,No,Yes,Success,Medium
+83,Ablation,1,Low,Male,No,Yes,Success,Low
+84,Cardiopulmonary resuscitation (CPR),1,Medium,Female,Yes,No,Success,Low
+87,Xenotransplantation,1,Medium,Male,Yes,Yes,Success,High
+87,"AAA Repair (Ruptured, Open)",4,High,Female,Yes,Yes,Success,High
+89,Pancreatic Resection,1,Medium,Female,Yes,No,Success,High
+89,Knee cartilage replacement therapy,4,High,Female,Yes,No,Success,High
+89,Pancreatic Resection (Cancer),4,Medium,Male,Yes,Yes,Success,High
+90,Laparoscopic surgery,1,Low,Female,Yes,No,Success,Low
+90,"AAA Repair (Ruptured, Endovascular)",2,Medium,Male,Yes,No,Success,High
+90,Biopsy,3,High,Female,Yes,No,Success,High
+91,"AAA Repair (Ruptured, Open)",1,Low,Female,No,Yes,Success,High
+92,Laminectomy,2,Low,Female,Yes,Yes,Success,High
+93,Radiosurgery,1,Medium,Female,Yes,Yes,Success,Low
+94,Vaginoplasty,2,Medium,Female,Yes,Yes,Success,Low
+95,CABG,2,Low,Male,Yes,No,Success,Low
+96,"AAA Repair (Ruptured, Endovascular)",1,Medium,Female,Yes,No,Success,High
+96,Carotid Endarterectomy,3,Medium,Male,Yes,Yes,Success,Low
+96,"AAA Repair (Ruptured, Endovascular)",4,High,Male,Yes,Yes,Failure,High
+98,Facial rejuvenation,1,Low,Male,Yes,Yes,Success,Low
+99,Laparoscopic surgery,1,Medium,Male,Yes,No,Success,High
+99,Esophageal Resection,4,High,Female,Yes,No,Success,High
+101,"AAA Repair (Un-ruptured, Endovascular)",3,Medium,Female,Yes,No,Success,Medium
+102,Cardiopulmonary resuscitation (CPR),1,Medium,Female,Yes,Yes,Success,Low
+102,Vaginoplasty,2,Medium,Female,Yes,Yes,Success,Low
+102,Biopsy,3,High,Female,Yes,No,Success,Low
+103,Cryosurgery,1,Medium,Female,Yes,Yes,Success,High
+103,Xenotransplantation,2,Low,Male,Yes,Yes,Success,Low
+103,Hand surgery,4,High,Male,Yes,No,Success,High
+105,Knee cartilage replacement therapy,1,Low,Female,No,Yes,Success,Low
+105,"AAA Repair (Un-ruptured, Open)",3,Medium,Female,Yes,Yes,Success,High
+106,"AAA Repair (Ruptured, Endovascular)",4,Medium,Male,Yes,Yes,Success,Low
+107,Hand surgery,4,Medium,Female,Yes,Yes,Success,Low
+108,Carotid Endarterectomy,2,Medium,Male,Yes,Yes,Success,Medium
+110,Hand surgery,1,Medium,Female,Yes,No,Success,Medium
+111,Hand surgery,4,High,Female,Yes,Yes,Success,Medium
+112,Pancreatic Resection (Cancer),2,Low,Female,Yes,No,Success,Medium
+113,Pancreatic Resection,2,High,Female,Yes,Yes,Success,Medium
+115,Radiosurgery,3,Low,Male,Yes,Yes,Success,Medium
+116,Vaginoplasty,3,High,Male,Yes,Yes,Success,Medium
+116,Stereotactic surgery,4,High,Female,Yes,Yes,Success,High
+119,Pancreatic Resection (Other),2,Low,Male,Yes,No,Success,Medium
+119,CABG,4,High,Female,Yes,Yes,Success,High
+120,Image-guided surgery,4,High,Male,Yes,Yes,Success,Low
+122,Biopsy,1,Low,Female,Yes,Yes,Success,Low
+123,Procedure,1,Low,Female,No,Yes,Success,High
+123,Vaginoplasty,3,Low,Female,No,No,Success,Medium
+125,CABG,1,Medium,Female,Yes,Yes,Success,High
+125,Laminectomy,4,High,Male,Yes,No,Success,Medium
+127,Endoscopic surgery,1,Medium,Male,Yes,Yes,Success,High
+128,Esophageal Resection,4,High,Female,Yes,No,Failure,High
+129,Pancreatic Resection,1,Medium,Male,Yes,Yes,Success,Medium
+132,Stereotactic surgery,2,Low,Male,No,Yes,Success,High
+134,Amputation,1,Medium,Female,Yes,No,Success,High
+135,Laparoscopic surgery,2,Low,Male,Yes,Yes,Success,Medium
+136,Radiosurgery,2,Medium,Female,Yes,No,Success,Low
+137,Lobotomy,4,High,Male,Yes,Yes,Success,High
+138,"AAA Repair (Ruptured, Open)",4,Medium,Male,Yes,No,Success,Low
+141,"AAA Repair (Ruptured, Open)",1,Low,Male,No,No,Success,Medium
+142,Esophageal Resection,2,Medium,Female,Yes,No,Success,Medium
+143,Radiosurgery,2,Medium,Male,Yes,Yes,Success,High
+143,Image-guided surgery,3,High,Female,Yes,No,Success,Low
+144,"AAA Repair (Un-ruptured, Endovascular)",3,High,Female,Yes,Yes,Success,High
+144,PCI,4,High,Female,Yes,No,Success,Low
+145,PCI,1,Low,Female,Yes,Yes,Success,High
+145,Image-guided surgery,3,Low,Female,Yes,Yes,Success,High
+145,Hemilaminectomy,4,Medium,Male,Yes,No,Success,High
+147,Procedure,3,Medium,Male,Yes,No,Success,Low
+149,PCI,2,Medium,Male,Yes,Yes,Success,Medium
+150,Radiosurgery,1,Low,Female,No,Yes,Success,High
+151,Biopsy,4,Medium,Male,Yes,Yes,Success,Low
+154,"AAA Repair (Un-ruptured, Endovascular)",1,Medium,Male,Yes,No,Success,High
+155,Hand surgery,1,Medium,Male,Yes,Yes,Success,Medium
+155,Cryosurgery,3,Low,Male,Yes,Yes,Success,Medium
+157,Radiosurgery,1,Low,Female,Yes,No,Success,High
+161,Pancreatic Resection (Other),4,Medium,Male,Yes,No,Success,Low
+162,"AAA Repair (Un-ruptured, Endovascular)",3,High,Male,Yes,Yes,Success,High
+163,General surgery,4,High,Male,Yes,Yes,Success,Low
+164,General surgery,2,Low,Female,No,Yes,Success,Medium
+164,Procedure,3,Low,Male,No,No,Success,High
+169,Knee cartilage replacement therapy,4,Medium,Female,Yes,Yes,Success,Low
+170,General surgery,1,Medium,Male,Yes,No,Success,Medium
+170,Hemilaminectomy,1,Low,Male,Yes,Yes,Success,High
+170,Ablation,3,High,Female,Yes,No,Success,High
+172,Hand surgery,3,High,Male,Yes,No,Success,High
+174,Laminectomy,1,Medium,Male,Yes,No,Success,Low
+174,Pancreatic Resection,1,Medium,Female,Yes,Yes,Success,High
+174,"AAA Repair (Ruptured, Open)",3,Medium,Female,Yes,Yes,Success,High
+174,Lobotomy,4,Medium,Male,Yes,No,Success,High
+175,Lithotriptor,4,Medium,Female,Yes,No,Success,Medium
+178,Facial rejuvenation,4,Medium,Male,Yes,No,Success,Low
+181,PCI,1,Medium,Male,Yes,No,Success,High
+181,Amputation,4,Medium,Male,Yes,No,Success,High
+182,Knee cartilage replacement therapy,3,Low,Female,No,No,Success,High
+182,Knee cartilage replacement therapy,3,Medium,Female,Yes,Yes,Success,Medium
+185,Cardiopulmonary resuscitation (CPR),4,Medium,Female,Yes,No,Success,High
+187,Hemilaminectomy,1,Medium,Male,Yes,Yes,Success,Medium
+188,General surgery,1,Medium,Male,Yes,Yes,Success,High
+189,Ablation,4,High,Female,Yes,Yes,Success,Medium
+191,"AAA Repair (Ruptured, Open)",1,Low,Female,No,Yes,Success,High
+191,"AAA Repair (Un-ruptured, Open)",3,Low,Female,Yes,Yes,Success,Medium
+194,"AAA Repair (Un-ruptured, Open)",4,High,Female,Yes,No,Success,High
+195,Cardiopulmonary resuscitation (CPR),3,High,Male,Yes,Yes,Success,High
+195,Ablation,4,High,Female,Yes,Yes,Success,Low
+196,Vaginoplasty,3,Medium,Male,Yes,Yes,Success,Low
+197,Pancreatic Resection (Cancer),2,Medium,Male,Yes,No,Success,High
+197,Stereotactic surgery,4,High,Male,Yes,No,Success,Medium
+198,Amputation,4,High,Male,Yes,Yes,Success,Medium
+200,Pancreatic Resection (Other),2,Medium,Female,Yes,No,Success,Low
+201,Biopsy,1,Medium,Male,Yes,Yes,Success,Medium
+201,Esophageal Resection,2,Medium,Male,Yes,No,Success,High
+202,Procedure,3,Low,Male,Yes,No,Success,Medium
+203,Carotid Endarterectomy,2,Medium,Male,Yes,Yes,Success,Low
+205,CABG,4,High,Male,Yes,No,Failure,High
+205,Knee cartilage replacement therapy,4,Medium,Male,Yes,No,Success,Medium
+205,Pancreatic Resection (Other),4,High,Female,Yes,Yes,Success,Low
+206,Knee cartilage replacement therapy,2,Medium,Female,Yes,Yes,Success,High
+207,"AAA Repair (Un-ruptured, Open)",1,Low,Male,No,Yes,Success,High
+210,Procedure,4,High,Male,Yes,Yes,Success,Low
+211,Lobotomy,2,High,Male,Yes,Yes,Success,High
+212,Lithotomy,2,Low,Female,No,No,Success,Low
+212,Endoscopic surgery,3,High,Male,Yes,No,Success,Medium
+216,"AAA Repair (Un-ruptured, Open)",1,Medium,Male,Yes,Yes,Success,Low
+217,General surgery,1,Low,Female,No,Yes,Success,Low
+217,AAA Repair,1,Low,Female,Yes,Yes,Success,Low
+221,Ablation,1,Low,Female,No,Yes,Success,High
+222,"AAA Repair (Ruptured, Endovascular)",2,High,Female,Yes,No,Success,High
+223,Esophageal Resection,3,Low,Female,No,No,Success,Low
+223,Xenotransplantation,3,Medium,Male,Yes,No,Success,High
+228,Knee cartilage replacement therapy,1,Low,Male,No,Yes,Success,Medium
+229,Lithotriptor,2,Low,Male,Yes,Yes,Success,Medium
+234,Pancreatic Resection (Cancer),3,Low,Male,No,Yes,Success,Medium
+234,Facial rejuvenation,3,High,Female,Yes,Yes,Success,Low
+236,Facial rejuvenation,3,Low,Male,No,Yes,Success,Medium
+241,Ablation,2,High,Male,Yes,No,Success,Low
+241,Cryosurgery,2,Low,Female,Yes,Yes,Success,Low
+241,Radiosurgery,4,High,Female,Yes,No,Success,High
+242,Radiosurgery,2,Medium,Male,Yes,No,Success,Low
+242,Amputation,4,Medium,Female,Yes,No,Success,Low
+243,Lithotriptor,1,Low,Female,No,Yes,Success,Low
+243,Cryosurgery,1,Medium,Female,Yes,Yes,Success,Medium
+243,Xenotransplantation,3,Low,Male,Yes,No,Success,High
+244,Facial rejuvenation,1,Low,Female,No,No,Success,Medium
+245,Lithotriptor,1,Low,Female,Yes,Yes,Success,Low
+245,Pancreatic Resection (Cancer),4,High,Male,Yes,No,Success,Low
+248,Radiosurgery,3,High,Male,Yes,No,Success,Low
+249,Pancreatic Resection,4,High,Female,Yes,Yes,Success,High
+250,Radiosurgery,2,High,Male,Yes,Yes,Success,Low
+251,Radiosurgery,4,Medium,Male,Yes,No,Success,Low
+252,"AAA Repair (Ruptured, Endovascular)",2,Medium,Female,Yes,Yes,Success,Low
+252,General surgery,3,High,Female,Yes,Yes,Success,Medium
+253,Endoscopic surgery,2,High,Female,Yes,No,Success,Medium
+255,Lithotriptor,4,Medium,Male,Yes,Yes,Success,Low
+256,Hemilaminectomy,1,Low,Male,No,Yes,Success,Medium
+256,Pancreatic Resection (Cancer),3,High,Male,Yes,Yes,Success,High
+256,Lithotriptor,3,Low,Male,Yes,No,Success,High
+258,Ablation,1,Low,Male,No,Yes,Success,High
+260,"AAA Repair (Ruptured, Open)",4,High,Male,Yes,No,Success,High
+261,Amputation,1,Low,Male,Yes,No,Success,High
+264,"AAA Repair (Un-ruptured, Open)",2,High,Male,Yes,Yes,Success,Medium
+266,Lithotriptor,4,High,Male,Yes,Yes,Success,Low
+266,Carotid Endarterectomy,4,Medium,Female,Yes,Yes,Success,Low
+268,Pancreatic Resection (Other),1,Low,Female,Yes,No,Success,Low
+268,Lithotriptor,1,Medium,Male,Yes,Yes,Success,Low
+268,Image-guided surgery,4,High,Female,Yes,Yes,Success,High
+269,Laparoscopic surgery,1,Medium,Male,Yes,No,Success,High
+272,Cardiopulmonary resuscitation (CPR),1,Low,Male,Yes,Yes,Success,Medium
+273,AAA Repair,2,Medium,Male,Yes,No,Success,Medium
+273,Biopsy,2,Medium,Male,Yes,No,Success,Medium
+275,Radiosurgery,1,Low,Female,No,Yes,Success,Medium
+275,Xenotransplantation,3,Low,Male,Yes,No,Success,Medium
+275,Hand surgery,4,Medium,Male,Yes,Yes,Success,Medium
+275,AAA Repair,4,High,Male,Yes,Yes,Success,Low
+277,Amputation,1,Low,Female,No,Yes,Success,High
+279,Pancreatic Resection,1,Medium,Female,Yes,No,Success,Low
+279,Biopsy,4,High,Male,Yes,No,Failure,Medium
+280,"AAA Repair (Un-ruptured, Open)",2,Medium,Male,Yes,Yes,Success,High
+281,CABG,2,Medium,Male,Yes,Yes,Success,Low
+281,Esophageal Resection,3,Low,Male,Yes,No,Success,High
+283,Ablation,1,Medium,Female,Yes,No,Success,Low
+283,Xenotransplantation,3,High,Male,Yes,Yes,Success,High
+283,Amputation,4,High,Female,Yes,No,Success,Medium
+286,Cardiopulmonary resuscitation (CPR),4,High,Male,Yes,Yes,Success,Low
+288,CABG,4,Medium,Female,Yes,Yes,Success,High
+289,Laminectomy,4,High,Female,Yes,No,Success,High
+294,Vaginoplasty,1,Medium,Male,Yes,No,Success,Low
+295,CABG,1,Low,Male,No,Yes,Success,Medium
+296,Hand surgery,1,Low,Male,Yes,No,Success,High
+296,Lithotomy,4,Medium,Female,Yes,No,Success,Medium
+299,Vaginoplasty,3,Medium,Female,Yes,No,Success,Low
+302,"AAA Repair (Un-ruptured, Open)",1,Low,Female,No,Yes,Success,Low
+304,"AAA Repair (Un-ruptured, Open)",3,Medium,Male,Yes,No,Success,Medium
+305,Vaginoplasty,2,High,Female,Yes,No,Success,Medium
+307,Xenotransplantation,4,High,Female,Yes,No,Failure,High
+308,Pancreatic Resection,1,Low,Male,No,Yes,Success,Low
+312,Knee cartilage replacement therapy,4,High,Male,Yes,No,Success,Medium
+313,"AAA Repair (Un-ruptured, Endovascular)",1,Low,Female,No,Yes,Success,Medium
+314,"AAA Repair (Ruptured, Open)",4,High,Male,Yes,No,Success,Low
+316,Pancreatic Resection (Cancer),3,Medium,Male,Yes,No,Success,High
+316,Neovaginoplasty,4,Medium,Male,Yes,Yes,Success,Low
+318,Neovaginoplasty,3,Medium,Female,Yes,Yes,Success,Medium
+318,Hemilaminectomy,4,High,Female,Yes,No,Success,Low
+319,Pancreatic Resection (Other),3,Medium,Male,Yes,No,Success,Low
+320,Laminectomy,1,Low,Male,No,Yes,Success,Low
+320,Hemilaminectomy,3,Medium,Female,Yes,Yes,Success,High
+321,"AAA Repair (Ruptured, Open)",3,Low,Female,Yes,Yes,Success,High
+321,Lithotomy,3,Medium,Male,Yes,Yes,Success,Medium
+321,Pancreatic Resection (Cancer),4,Medium,Male,Yes,No,Success,High
+322,Lobotomy,1,Medium,Male,Yes,No,Success,High
+322,"AAA Repair (Un-ruptured, Endovascular)",1,Low,Male,Yes,Yes,Success,Low
+323,General surgery,1,Medium,Male,Yes,Yes,Success,Medium
+324,Lithotomy,1,Low,Male,Yes,Yes,Success,High
+324,Hand surgery,2,High,Female,Yes,Yes,Failure,High
+325,Cardiopulmonary resuscitation (CPR),3,Medium,Female,Yes,No,Success,High
+326,PCI,1,Medium,Female,Yes,No,Success,Low
+326,Carotid Endarterectomy,3,Low,Male,Yes,Yes,Success,High
+326,Pancreatic Resection,3,Medium,Male,Yes,No,Success,High
+327,Lithotriptor,3,High,Female,Yes,Yes,Success,High
+329,Pancreatic Resection (Cancer),3,High,Male,Yes,Yes,Success,Medium
+330,Radiosurgery,4,High,Female,Yes,No,Failure,Low
+332,Pancreatic Resection (Other),4,Medium,Male,Yes,No,Failure,Low
+334,Biopsy,4,Medium,Male,Yes,Yes,Success,High
+334,Cardiopulmonary resuscitation (CPR),4,High,Female,Yes,No,Success,Low
+336,Pancreatic Resection,3,Medium,Female,Yes,No,Success,Medium
+338,"AAA Repair (Ruptured, Endovascular)",1,Low,Female,No,Yes,Success,Medium
+338,Stereotactic surgery,3,Medium,Male,Yes,No,Failure,Low
+340,Radiosurgery,4,High,Male,Yes,No,Failure,Low
+341,Esophageal Resection,3,High,Female,Yes,Yes,Success,Low
+343,Esophageal Resection,1,Low,Female,Yes,Yes,Failure,Medium
+344,Lithotriptor,2,High,Male,Yes,No,Failure,Medium
+345,Biopsy,3,Low,Female,No,Yes,Success,Medium
+345,"AAA Repair (Un-ruptured, Open)",4,Medium,Female,Yes,No,Success,Medium
+349,Image-guided surgery,3,High,Male,Yes,Yes,Success,High
+350,"AAA Repair (Ruptured, Open)",3,High,Male,Yes,Yes,Success,High
+350,Ablation,4,High,Male,Yes,Yes,Success,Low
+351,Pancreatic Resection (Cancer),1,Medium,Male,Yes,Yes,Success,Medium
+352,Hemilaminectomy,3,Medium,Female,Yes,Yes,Failure,Medium
+353,General surgery,3,High,Female,Yes,Yes,Failure,High
+353,Stereotactic surgery,4,Medium,Male,Yes,Yes,Success,High
+353,Lobotomy,4,Medium,Male,Yes,Yes,Success,Medium
+354,Lithotomy,3,Low,Male,Yes,No,Success,High
+356,Laparoscopic surgery,1,Low,Male,No,Yes,Success,Medium
+356,Laminectomy,2,High,Male,Yes,Yes,Success,High
+357,"AAA Repair (Ruptured, Endovascular)",2,High,Male,Yes,Yes,Failure,Low
+358,Radiosurgery,3,Medium,Male,Yes,No,Success,High
+358,Stereotactic surgery,3,High,Female,Yes,No,Failure,Low
+359,Facial rejuvenation,2,Medium,Female,Yes,No,Failure,High
+359,Lithotomy,4,Medium,Male,Yes,Yes,Success,Medium
+361,Radiosurgery,1,Low,Female,No,No,Failure,Low
+362,"AAA Repair (Un-ruptured, Open)",3,Low,Female,No,No,Success,Medium
+364,Pancreatic Resection,3,Low,Female,No,No,Success,Low
+366,PCI,2,High,Female,Yes,No,Failure,High
+367,Radiosurgery,1,Medium,Male,Yes,No,Failure,Medium
+368,Endoscopic surgery,1,Medium,Male,Yes,Yes,Failure,Low
+369,"AAA Repair (Ruptured, Open)",1,Low,Male,No,Yes,Success,High
+371,Laminectomy,3,High,Male,Yes,No,Failure,Low
+373,"AAA Repair (Ruptured, Open)",2,Medium,Male,Yes,Yes,Success,High
+373,Laparoscopic surgery,3,High,Female,Yes,No,Failure,Medium
+374,Facial rejuvenation,3,High,Male,Yes,No,Success,High
+376,Lithotriptor,2,Low,Female,Yes,Yes,Success,Medium
+377,Image-guided surgery,4,Medium,Female,Yes,No,Success,Medium
+379,Biopsy,3,Medium,Female,Yes,No,Failure,Low
+381,Laminectomy,2,High,Female,Yes,Yes,Success,Low
+382,Pancreatic Resection (Other),1,Low,Male,Yes,Yes,Failure,High
+382,Knee cartilage replacement therapy,4,Medium,Female,Yes,No,Failure,Low
+384,Lithotriptor,1,Medium,Female,Yes,Yes,Failure,Low
+384,Image-guided surgery,2,High,Female,Yes,Yes,Failure,Low
+385,Endoscopic surgery,3,Low,Male,No,No,Success,Low
+387,Endoscopic surgery,1,Low,Female,Yes,Yes,Success,High
+387,Laminectomy,4,Medium,Male,Yes,No,Failure,Low
+388,Pancreatic Resection,3,Low,Female,No,Yes,Success,Medium
+389,Lithotomy,4,Medium,Female,Yes,No,Failure,Low
+390,Radiosurgery,2,Low,Male,Yes,No,Success,Medium
+390,PCI,4,Medium,Female,Yes,No,Success,High
+393,Pancreatic Resection,4,High,Female,Yes,No,Success,Low
+397,Radiosurgery,1,Low,Male,No,Yes,Success,Medium
+399,CABG,3,Medium,Male,Yes,Yes,Failure,Medium
+399,Lobotomy,3,Low,Male,Yes,No,Success,Low
+404,Pancreatic Resection,2,Medium,Male,Yes,Yes,Success,High
+405,Pancreatic Resection,1,Medium,Male,Yes,No,Success,Low
+406,Xenotransplantation,1,Medium,Female,Yes,Yes,Failure,High
+407,Ablation,2,Low,Female,No,No,Success,Medium
+407,Xenotransplantation,3,Medium,Female,Yes,Yes,Success,High
+410,Endoscopic surgery,2,High,Male,Yes,Yes,Success,Medium
+411,Ablation,3,High,Male,Yes,Yes,Failure,Low
+412,PCI,2,Medium,Female,Yes,Yes,Failure,Medium
+413,General surgery,2,High,Female,Yes,Yes,Failure,High
+415,"AAA Repair (Ruptured, Open)",1,Low,Male,No,Yes,Failure,High
+415,Pancreatic Resection (Other),3,Medium,Male,Yes,No,Failure,High
+416,Radiosurgery,1,Medium,Male,Yes,No,Failure,High
+421,Amputation,3,Low,Male,Yes,No,Success,Low
+424,Endoscopic surgery,2,Low,Male,Yes,No,Success,High
+428,Vaginoplasty,4,High,Male,Yes,No,Success,Low
+429,"AAA Repair (Un-ruptured, Endovascular)",1,Medium,Male,Yes,No,Failure,High
+429,Radiosurgery,4,Medium,Male,Yes,Yes,Success,Low
+431,Laminectomy,1,Medium,Female,Yes,No,Failure,High
+434,"AAA Repair (Un-ruptured, Endovascular)",2,Medium,Female,Yes,Yes,Failure,Medium
+434,Carotid Endarterectomy,2,Medium,Male,Yes,No,Success,Medium
+434,Image-guided surgery,3,High,Female,Yes,No,Success,Low
+436,Hemilaminectomy,1,Low,Female,Yes,No,Success,High
+437,Pancreatic Resection,2,Low,Male,No,Yes,Success,High
+441,Knee cartilage replacement therapy,1,Low,Male,No,No,Success,High
+443,Radiosurgery,4,Medium,Female,Yes,No,Success,Low
+444,Neovaginoplasty,3,Low,Male,Yes,No,Success,Low
+444,"AAA Repair (Ruptured, Open)",3,High,Male,Yes,No,Success,Low
+444,Xenotransplantation,4,High,Male,Yes,No,Failure,High
+445,Radiosurgery,2,High,Female,Yes,No,Success,Low
+447,Facial rejuvenation,2,Low,Male,No,Yes,Success,Low
+448,Pancreatic Resection (Cancer),1,Low,Female,No,Yes,Success,Low
+450,Lithotomy,1,Low,Female,Yes,Yes,Success,High
+451,Esophageal Resection,4,Medium,Male,Yes,No,Success,Medium
+452,AAA Repair,3,Medium,Male,Yes,Yes,Failure,Medium
+454,Laparoscopic surgery,3,Low,Female,Yes,Yes,Success,High
+454,"AAA Repair (Un-ruptured, Endovascular)",3,High,Male,Yes,Yes,Success,High
+458,Pancreatic Resection (Cancer),2,Low,Female,No,No,Success,Low
+458,Lithotomy,2,Low,Female,No,No,Success,Medium
+460,Pancreatic Resection (Other),3,Low,Female,Yes,Yes,Success,Low
+461,Esophageal Resection,4,High,Female,Yes,No,Success,Medium
+466,Endoscopic surgery,2,Low,Male,No,No,Success,Medium
+467,Carotid Endarterectomy,3,Medium,Female,Yes,No,Failure,Medium
+467,Carotid Endarterectomy,3,Medium,Male,Yes,Yes,Failure,Medium
+470,Hand surgery,1,Medium,Male,Yes,No,Success,High
+472,Amputation,2,Medium,Male,Yes,Yes,Success,Low
+473,Xenotransplantation,1,Medium,Female,Yes,Yes,Failure,Low
+476,Procedure,2,High,Male,Yes,No,Success,Low
+476,Vaginoplasty,2,Low,Male,Yes,Yes,Success,Low
+476,"AAA Repair (Ruptured, Endovascular)",3,Medium,Male,Yes,No,Success,Low
+476,Pancreatic Resection (Cancer),3,Low,Female,Yes,Yes,Success,High
+477,Pancreatic Resection,2,Low,Male,Yes,No,Success,Medium
+477,Esophageal Resection,4,High,Male,Yes,Yes,Success,Low
+478,Laparoscopic surgery,2,Low,Female,Yes,Yes,Success,Medium
+480,Lithotomy,3,Low,Male,Yes,No,Success,High
+480,Neovaginoplasty,4,Medium,Male,Yes,No,Success,High
+481,Amputation,2,Medium,Female,Yes,No,Success,Medium
+483,Lithotriptor,1,Medium,Female,Yes,No,Success,Medium
+483,Hemilaminectomy,4,High,Male,Yes,No,Success,Low
+483,Vaginoplasty,4,Medium,Male,Yes,Yes,Success,Low
+484,"AAA Repair (Ruptured, Open)",1,Medium,Male,Yes,Yes,Success,High
+485,AAA Repair,2,Medium,Male,Yes,Yes,Failure,High
+486,General surgery,1,Low,Male,Yes,No,Failure,Medium
+486,Lithotomy,2,Low,Female,Yes,Yes,Success,Low
+486,Procedure,3,Medium,Female,Yes,No,Success,Low
+487,Neovaginoplasty,4,Medium,Male,Yes,Yes,Failure,Low
+488,"AAA Repair (Ruptured, Open)",2,Medium,Female,Yes,Yes,Failure,High
+488,Laparoscopic surgery,3,High,Male,Yes,Yes,Failure,Medium
+489,"AAA Repair (Un-ruptured, Endovascular)",2,High,Female,Yes,No,Success,High
+490,Pancreatic Resection (Cancer),3,High,Female,Yes,Yes,Failure,Low
+491,Amputation,4,Medium,Female,Yes,No,Failure,Medium
+493,Amputation,2,Medium,Male,Yes,Yes,Success,Low
+493,Radiosurgery,2,High,Male,Yes,Yes,Failure,Low
+493,"AAA Repair (Ruptured, Open)",3,Low,Male,Yes,No,Success,High
+494,Radiosurgery,1,Low,Male,Yes,No,Success,Low
+494,Laminectomy,1,Low,Male,Yes,Yes,Success,Medium
+498,Endoscopic surgery,2,Medium,Female,Yes,Yes,Success,High
+498,Biopsy,2,Low,Male,Yes,Yes,Success,Medium
+498,Lithotriptor,3,High,Male,Yes,Yes,Success,High
+498,AAA Repair,4,High,Male,Yes,Yes,Success,High
+499,Pancreatic Resection (Other),1,Low,Female,Yes,No,Success,High
+499,Laminectomy,4,Medium,Male,Yes,No,Success,High
+502,Biopsy,4,High,Female,Yes,Yes,Failure,Low
+504,Esophageal Resection,2,Medium,Female,Yes,Yes,Success,Medium
+504,Knee cartilage replacement therapy,4,Medium,Male,Yes,No,Failure,High
+505,Laminectomy,2,High,Male,Yes,Yes,Success,Low
+506,Esophageal Resection,1,Low,Male,Yes,Yes,Success,High
+510,Facial rejuvenation,1,Low,Male,Yes,Yes,Success,Medium
+510,PCI,3,Medium,Male,Yes,Yes,Success,Low
+512,General surgery,2,Medium,Female,Yes,No,Success,Medium
+512,Laminectomy,2,Low,Female,Yes,Yes,Success,Low
+512,Stereotactic surgery,3,Low,Male,Yes,No,Success,Medium
+513,Lithotomy,2,High,Female,Yes,No,Failure,High
+513,Laminectomy,3,Medium,Male,Yes,No,Failure,Low
+514,Stereotactic surgery,3,High,Female,Yes,No,Failure,High
+514,Vaginoplasty,3,Medium,Male,Yes,Yes,Failure,Medium
+517,Procedure,4,Medium,Female,Yes,No,Success,High
+522,"AAA Repair (Ruptured, Open)",2,Medium,Male,Yes,No,Success,Medium
+526,Image-guided surgery,1,Low,Female,Yes,No,Failure,Low
+526,Lithotriptor,4,Medium,Female,Yes,No,Success,Low
+529,Cryosurgery,4,Medium,Male,Yes,No,Success,High
+530,Stereotactic surgery,1,Low,Female,Yes,No,Success,High
+530,"AAA Repair (Ruptured, Endovascular)",3,Medium,Female,Yes,Yes,Failure,Low
+530,AAA Repair,4,Medium,Female,Yes,No,Success,Medium
+533,Pancreatic Resection (Other),4,High,Female,Yes,Yes,Success,Low
+534,Lithotriptor,2,Low,Female,Yes,Yes,Success,Medium
+535,General surgery,4,Medium,Male,Yes,No,Failure,Medium
+536,"AAA Repair (Ruptured, Endovascular)",3,Medium,Female,Yes,No,Failure,Medium
+537,Amputation,3,Low,Female,Yes,Yes,Success,High
+537,Lithotriptor,4,High,Female,Yes,No,Failure,High
+539,"AAA Repair (Ruptured, Open)",3,High,Male,Yes,Yes,Success,Low
+539,Image-guided surgery,4,Medium,Female,Yes,Yes,Success,Low
+540,Ablation,1,Low,Male,Yes,No,Success,High
+540,Laparoscopic surgery,4,Medium,Female,Yes,Yes,Failure,Low
+541,Pancreatic Resection (Cancer),1,Low,Female,Yes,Yes,Failure,Low
+541,Facial rejuvenation,3,High,Male,Yes,Yes,Failure,Low
+541,Pancreatic Resection,4,Medium,Male,Yes,Yes,Failure,Low
+543,Lobotomy,3,High,Female,Yes,No,Failure,Medium
+543,"AAA Repair (Ruptured, Endovascular)",3,High,Female,Yes,Yes,Success,Low
+544,Cardiopulmonary resuscitation (CPR),2,High,Male,Yes,No,Success,High
+544,Biopsy,3,High,Male,Yes,Yes,Success,Medium
+545,Stereotactic surgery,4,High,Male,Yes,No,Failure,Low
+546,Knee cartilage replacement therapy,4,High,Male,Yes,Yes,Success,Medium
+549,Facial rejuvenation,1,Medium,Female,Yes,No,Success,Low
+549,Vaginoplasty,2,Low,Male,Yes,No,Success,Low
+549,Esophageal Resection,3,Low,Male,Yes,No,Success,Low
+549,Lithotriptor,4,High,Female,Yes,No,Success,Low
+555,Xenotransplantation,4,Medium,Female,Yes,No,Success,Medium
+559,PCI,1,Low,Female,Yes,No,Failure,Low
+559,Ablation,1,Low,Male,Yes,No,Success,High
+559,Pancreatic Resection,2,Medium,Female,Yes,No,Success,Medium
+559,Amputation,3,Medium,Female,Yes,Yes,Failure,High
+561,Esophageal Resection,1,Low,Male,Yes,Yes,Failure,High
+562,"AAA Repair (Ruptured, Open)",4,Medium,Male,Yes,No,Success,Low
+563,"AAA Repair (Ruptured, Endovascular)",2,High,Female,Yes,Yes,Success,Medium
+563,Facial rejuvenation,4,Medium,Female,Yes,No,Failure,High
+564,Facial rejuvenation,1,Medium,Male,Yes,No,Failure,Medium
+566,Facial rejuvenation,1,Low,Female,Yes,Yes,Success,Medium
+566,Lithotomy,1,Low,Female,Yes,Yes,Success,Low
+569,Laparoscopic surgery,1,Low,Female,Yes,No,Failure,Medium
+570,Neovaginoplasty,3,Low,Male,Yes,No,Success,Medium
+572,Lithotomy,1,Low,Male,Yes,Yes,Success,Low
+572,Xenotransplantation,2,Low,Female,Yes,No,Success,Medium
+572,Xenotransplantation,2,High,Male,Yes,Yes,Failure,Low
+578,Laminectomy,1,Low,Female,Yes,No,Success,Medium
+579,General surgery,3,High,Female,Yes,Yes,Success,High
+580,Radiosurgery,1,Medium,Female,Yes,Yes,Failure,Low
+580,Neovaginoplasty,2,High,Male,Yes,No,Failure,High
+581,General surgery,3,High,Female,Yes,No,Success,Low
+583,PCI,4,Medium,Female,Yes,Yes,Failure,Low
+587,CABG,2,High,Female,Yes,Yes,Success,Low
+589,Xenotransplantation,3,Medium,Male,Yes,Yes,Failure,Medium
+590,Hemilaminectomy,3,Medium,Female,Yes,No,Success,Medium
+590,Hemilaminectomy,4,High,Female,Yes,Yes,Success,Low
+593,Laminectomy,1,Low,Male,Yes,Yes,Failure,Medium
+593,Pancreatic Resection,2,Medium,Male,Yes,No,Failure,Low
+596,"AAA Repair (Un-ruptured, Endovascular)",3,Medium,Male,Yes,Yes,Failure,Low
+597,Laminectomy,2,High,Female,Yes,Yes,Success,Low
+598,Laparoscopic surgery,1,Low,Female,Yes,No,Success,High
+598,Neovaginoplasty,1,Medium,Female,Yes,Yes,Failure,Low
+599,General surgery,2,Medium,Female,Yes,No,Failure,High
+600,PCI,1,Medium,Female,Yes,No,Failure,Medium
